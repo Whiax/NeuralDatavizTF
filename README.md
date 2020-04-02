@@ -1,8 +1,8 @@
 # NeuralDatavizTF
 Illustrates inner representations of a learning neural network
 
-Task to learn:
+Task to learn:  
 ![alt text](https://github.com/Whiax/NeuralDatavizTF/blob/master/task.png "-")
 
-Inner representation at different iterations:
+Inner representation at different iterations:  
 ![alt text](https://github.com/Whiax/NeuralDatavizTF/blob/master/network_learning.gif "-")
