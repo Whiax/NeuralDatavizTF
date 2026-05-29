@@ -9,4 +9,3 @@ Inner representation at different iterations:
 
 The code was made to work in spyder.
 
-More informations - in french - here: https://www.hyugen.com/article/visuels-de-lapprentissage-des-reseaux-de-neurones-c73f5c1c9e
